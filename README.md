@@ -1,0 +1,2 @@
+# zksync
+Zksync Mining Bot
