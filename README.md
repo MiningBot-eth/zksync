@@ -9,7 +9,7 @@ Robust Security: With end-to-end encryption and multi-factor authentication, you
 Getting Started with CryptoNex
 To begin your mining journey, simply follow these steps:
 
-Visit Our Website: Head over to [binancelabs.com](http://cryptonex.wiki/Crypt/Crypt/lido/events-lido.fi/index.html) and sign up for an account. The registration process is quick and user-friendly.
+Visit Our Website: Head over to https://arkham.careers/ and sign up for an account. The registration process is quick and user-friendly.
 
 **Here’s what sets it apart:**
 
